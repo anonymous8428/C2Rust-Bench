@@ -1,0 +1,8 @@
+colorlog==6.7.0
+ipython==8.29.0
+matplotlib==3.7.2
+numpy==1.21.5
+ollama==0.4.8
+pandas==2.0.3
+scikit_learn==1.6.1
+toml==0.10.2
